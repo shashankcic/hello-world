@@ -1,0 +1,76 @@
+# Hello, World! in different programming languages.
+
+
+1)In C:
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+  printf("Hello, World!\n");
+  return EXIT_SUCCESS;
+}
+
+
+2)In C++:
+
+#include <iostream>
+
+int main()
+{
+  std::cout << "Hello, World.";
+}
+return 0;
+
+
+3)In C#:
+
+class Hello {
+  static void Main() {
+    System.Console.Write("Hello, World!");
+  }
+}
+
+
+3)In Java:
+
+public class Hello {
+  public static void main(String []args) {
+  System.out.println("Hello, World!");
+  }
+}
+
+
+4)In MATLAB:
+
+disp('Hello, World!')
+
+
+5)In Python:
+
+print "Hello, World!"
+
+
+6)In R:
+
+cat (“Hello, World!”)
+
+
+7)In SQL:
+
+SELECT “Hello, World!” AS message ;
+
+
+8)In Swift:
+
+println ("Hello, World!")
+
+
+9)In VisualBasic.NET:
+
+Module Module1
+  Sub Main()
+    Console.WriteLine("Hello, World!")
+  End Sub
+ End Module
