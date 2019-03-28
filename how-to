@@ -74,3 +74,5 @@ Module Module1
     Console.WriteLine("Hello, World!")
   End Sub
  End Module
+ 
+ All of these will display on the output screen: Hello, World!
