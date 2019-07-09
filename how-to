@@ -75,4 +75,7 @@ Module Module1
   End Sub
  End Module
  
+ 10)In JavaScript:
+ console.log('Hello, World!')
+ 
  All of these will display on the output screen: Hello, World!
